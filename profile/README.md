@@ -10,4 +10,4 @@ Rulebook scores your support bot, attacks it with sneaky customers, fixes its ru
 - **[Example support bot](https://github.com/rulebook-dev/example-support-bot)**: a bot to try Rulebook on, including the GitHub handoff
 - **[Brand](https://github.com/rulebook-dev/brand)**: logo, mark and colors
 
-Questions: rulebook.tech@gmail.com
+Questions: hello@rulebook.tech
