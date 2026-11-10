@@ -5,6 +5,7 @@
 Rulebook scores your support bot, attacks it with sneaky customers, fixes its rules and trains it. Every improvement goes to your engineers as a pull request.
 
 - **[Website](https://www.rulebook.tech)**: try it, see pricing
+- **[Engine](https://github.com/rulebook-dev/engine)**: the scoring, attack, fix and training engine behind Rulebook. Read every prompt, run it with your own key
 - **[Docs](https://github.com/rulebook-dev/docs)**: how every part works
 - **[Example support bot](https://github.com/rulebook-dev/example-support-bot)**: a bot to try Rulebook on, including the GitHub handoff
 - **[Brand](https://github.com/rulebook-dev/brand)**: logo, mark and colors
